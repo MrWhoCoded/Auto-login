@@ -51,7 +51,7 @@ print("reached")
 
 try:
     join_class = WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located((By.XPATH, "//tbody[1]/tr[6]/td[5]/a"))  
+        EC.presence_of_element_located((By.XPATH, "//tbody[1]/tr[1]/td[5]/a"))  
     )
 except:
     print("Class is not yet enabled")
