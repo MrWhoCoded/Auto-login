@@ -1,3 +1,3 @@
-username="B/14112"
-password="YSRspirit123"
-webdriver_path="C:\Program Files (x86)"
+username=""
+password=""
+webdriver_path=""
